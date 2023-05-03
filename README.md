@@ -8,7 +8,8 @@ Getting Started
 
 1. Clone the repository to your local machine.
 2. Install the dependencies with npm install or yarn install.
-3. Run the application with npm start or yarn start.
+3. npm install react-scripts
+4. Run the application with npm start or yarn start.
 
 The project will be running at `http://localhost:3000`.
 
