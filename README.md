@@ -10,14 +10,18 @@ Getting Started
 2. Install the dependencies with npm install or yarn install.
 3. Run the application with npm start or yarn start.
 
-Usage
+The project will be running at `http://localhost:3000`.
 
-1. Enter your name in the text input field.
+## How to Use
+
+1. Enter your name in the input field.
 2. Click the "Submit" button.
-3. The predicted age of the user will be displayed.
+3. The predicted age will be displayed.
 
-Contributing
+## Contributing
 
-1. Fork the repository to your own account.
-2. Make your changes and commit them.
-3. Open a pull request to merge your changes into the main branch
+If you would like to contribute to this project, please feel free to open a pull request.
+
+## License
+
+This project is licensed under the MIT License.
